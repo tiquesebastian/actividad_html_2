@@ -81,5 +81,4 @@ Este sitio web presenta cinco páginas HTML independientes, organizadas con etiq
 
 ---
 
-¿Te gustaría que te lo entregue en un archivo `.md` descargable o lo copies tú mismo? También puedo ayudarte a incluir imágenes y enlaces si decides subir el sitio en línea.
-
+      
